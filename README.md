@@ -20,9 +20,10 @@ See `test_evidence_belief_models.py` for usage examples.
 If you use this software in academic work, please cite:
 
 D. Pinto Prieto (2026). *Evidence belief models*. GitHub repository.
-https://github.com/yourusername/repository-name
+https://github.com/dpp-research/evidence_belief_models
 
 ## Ackowledgments 
 
 
 We acknowledge A. Boixel for his contributions to the original notebook code.
+
