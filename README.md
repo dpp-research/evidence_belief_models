@@ -3,12 +3,9 @@
 This package implements three belief reasoners based on the multi-layer belief model introduced in [1]. The implementation builds upon and extends the original Jupyter notebook code provided in [2].
 
 
-[1] Daira Pinto Prieto, Ronald de Haan, and Aybüke Özgün.  
-*A Belief Model for Conflicting and Uncertain Evidence: Connecting Dempster–Shafer Theory and the Topology of Evidence.*  
-Proceedings of the 20th International Conference on Principles of Knowledge Representation and Reasoning (KR 2023), 2023.
+[1] Daira Pinto Prieto, Ronald de Haan, and Aybüke Özgün. *A Belief Model for Conflicting and Uncertain Evidence: Connecting Dempster–Shafer Theory and the Topology of Evidence.* Proceedings of the 20th International Conference on Principles of Knowledge Representation and Reasoning (KR 2023), 2023.
 
-[2] Original Jupyter notebook implementation:  
-https://github.com/dpintoprieto/multi-layer-belief-model
+[2] Original Jupyter notebook implementation: https://github.com/dpintoprieto/multi-layer-belief-model
 
 ## Available reasoners
 
@@ -26,5 +23,6 @@ D. Pinto Prieto (2026). *Evidence belief models*. GitHub repository.
 https://github.com/yourusername/repository-name
 
 ## Ackowledgments 
+
 
 We acknowledge A. Boixel for his contributions to the original notebook code.
